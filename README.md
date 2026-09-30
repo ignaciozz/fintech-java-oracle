@@ -1,4 +1,4 @@
-# FINTECH — Java + Oracle
+# FINTECH | Java + Oracle
 
 Projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas da FIAP.
 
@@ -48,3 +48,4 @@ src
             ├── factory
             ├── model
             └── view
+            
